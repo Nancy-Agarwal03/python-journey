@@ -1,4 +1,4 @@
 # NumPy
 
-This folder contains my numpy programming fundamentals, and mathematical operations,
-including basic concepts, syntax, and practice programs.
+This folder contains my NumPy learning notes,
+array operations, examples, and practice notebooks.
